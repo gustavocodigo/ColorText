@@ -26,6 +26,7 @@ https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=00ff00
 
 
 <b>Example font size</b>
+<br>
 https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=ed5ad7&font_size=50
 
 
@@ -38,8 +39,7 @@ the api will return a png ready to use !!
 
 
 <b>Using it on markdown</b>
-![image](https://github.com/gustavocodigo/ColorText/assets/108258194/45e9d3dc-6d7a-40de-b638-18f107ff4a6b)
-
+<img src="https://github.com/gustavocodigo/ColorText/assets/108258194/f3287fe4-009e-4295-b9b0-d23d61e78698">
 
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=HeyHey&color=e05ad7&font_size=50&margin=0">
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=LetsGo&color=00ff00&font_size=30&margin=0">
