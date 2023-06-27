@@ -40,6 +40,10 @@ the api will return a png ready to use !!
 
 <b>Using it on markdown</b>
 <img src="https://github.com/gustavocodigo/ColorText/assets/108258194/f3287fe4-009e-4295-b9b0-d23d61e78698">
+<b>Using it on discord by just pasting the link on chats</b>
+![image](https://github.com/gustavocodigo/ColorText/assets/108258194/f4a857e9-f7f5-4aa0-8a18-965a6415a457)
+
+
 
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=HeyHey&color=e05ad7&font_size=50&margin=0">
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=LetsGo&color=00ff00&font_size=30&margin=0">
