@@ -7,7 +7,7 @@ This is a simple api to return rendered images from the request, you can put the
 
 
 
-Your Project
+
 ------------
 <br>
 
