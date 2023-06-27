@@ -37,6 +37,10 @@ the api will return a png ready to use !!
 (also the params name wll never be changed, it wll work for a long long time, maybe I'll add more features soon.)
 
 
+<b>Using it on markdown</b>
+![image](https://github.com/gustavocodigo/ColorText/assets/108258194/45e9d3dc-6d7a-40de-b638-18f107ff4a6b)
+
+
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=HeyHey&color=e05ad7&font_size=50&margin=0">
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=LetsGo&color=00ff00&font_size=30&margin=0">
 <img src="https://gustavocodigo-colortext.glitch.me/generate?text=THis%20is%20Awesome!!&color=ff0007&font_size=20&margin=0">
