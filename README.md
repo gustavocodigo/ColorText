@@ -38,10 +38,10 @@ the api will return a png ready to use !!
 (also the params name wll never be changed, it wll work for a long long time, maybe I'll add more features soon.)
 
 
-<b>Using it on markdown</b>
-<img src="https://github.com/gustavocodigo/ColorText/assets/108258194/f3287fe4-009e-4295-b9b0-d23d61e78698">
-<b>Using it on discord by just pasting the link on chats</b>
-![image](https://github.com/gustavocodigo/ColorText/assets/108258194/f4a857e9-f7f5-4aa0-8a18-965a6415a457)
+<b>Using it on markdown</b><br>
+<img src="https://github.com/gustavocodigo/ColorText/assets/108258194/f3287fe4-009e-4295-b9b0-d23d61e78698"><br>
+<b>Using it on discord by just pasting the link on chats</b><br>
+![image](https://github.com/gustavocodigo/ColorText/assets/108258194/f4a857e9-f7f5-4aa0-8a18-965a6415a457)<br>
 
 
 
