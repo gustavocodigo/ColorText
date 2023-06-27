@@ -30,6 +30,9 @@ https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=00ff00
 https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=ed5ad7&font_size=50
 
 
+<b>Documentation</b>
+https://gustavocodigo-colortext.glitch.me/
+
 the api will return a png ready to use !!
 
 
