@@ -11,7 +11,6 @@ Your Project
 ------------
 <br>
 
-<img src="https://gustavocodigo-colortext.glitch.me/generate?text=Colored Text!&color=e05a07&font_size=50">
 
 
 
@@ -38,6 +37,6 @@ the api will return a png ready to use !!
 (also the params name wll never be changed, it wll work for a long long time, maybe I'll add more features soon.)
 
 
-
-<img src="https://gustavocodigo-colortext.glitch.me/generate?text=LetsGo&color=ed5ad7&font_size=50">
-<img src="https://gustavocodigo-colortext.glitch.me/generate?text=THis%20is%20Awesome!!&color=e05a07&font_size=20">
+<img src="https://gustavocodigo-colortext.glitch.me/generate?text=HeyHey&color=e05ad7&font_size=50&margin=0">
+<img src="https://gustavocodigo-colortext.glitch.me/generate?text=LetsGo&color=00ff00&font_size=30&margin=0">
+<img src="https://gustavocodigo-colortext.glitch.me/generate?text=THis%20is%20Awesome!!&color=ff0007&font_size=20&margin=0">
