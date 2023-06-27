@@ -1,0 +1,79 @@
+<!-- This is a static file -->
+<!-- served from your routes in server.js -->
+
+<!-- You might want to try something fancier: -->
+<!-- html/nunjucks docs: http://mozilla.github.io/nunjucks/ -->
+<!-- jade: http://jade-lang.com/ -->
+<!-- haml: http://haml.info/tutorial.html -->
+<!-- hbs(handlebars): http://handlebarsjs.com/expressions.html -->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Colored text api</title>
+    <meta name="description" content="A cool api to return rendered texts images">
+    <link id="favicon" rel="icon" href="https://gomix.com/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="public/style.css">
+    
+    
+  </head>
+  <body>
+    <header>
+      <h1>
+        Colored Text Api
+      </h1>
+    </header>
+
+    <main>
+      <h2>
+        Colored text api
+      </h2>
+      <p>
+        A simple api to return rendered images based on the params givem to the url !!
+        
+      </p>
+      <p>
+        Params:
+      </p>
+      <ul>
+        <li>text - pass the text content (required)</li>
+        <li>color - pass the text color hex rgba ex: FF0000FF (optional)</li>
+        <li>margin - pass the margin between borders ex: 30 (optional)</li>
+        <li>font_size - pass the margin between borders ex: 30 (optional)</li>
+      </ul>
+      
+      <hr>
+      
+      the route is in /generate , the params is passed by query.<br><br><br>
+      <b>Example text only</b><br>
+      https://gustavocodigo-colortext.glitch.me/generate?text=Im%20a%20cute%20butterfly<br>
+      <img src="https://gustavocodigo-colortext.glitch.me/generate?text=Im%20a%20cute%20butterfly"><br><br>
+      
+      <b>Example color</b><br>
+      https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=00ff00<br>
+      <img src="https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=00ff00"><br><br>
+      
+       <b>Example font size</b><br>
+      https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=ed5ad7&font_size=50<br>
+      <img src="https://gustavocodigo-colortext.glitch.me/generate?text=hey&color=ed5ad7&font_size=50"><br><br>
+      
+      
+      
+      the api will return a png.
+    </main>
+
+    <footer>
+      <b>My contacts</b>
+      <ul>
+        <li>github - gustavocodigo</li>
+       <li>discord - gustavocodigo</li>
+      </ul>
+   
+    </footer>
+
+  </body>
+</html>
+

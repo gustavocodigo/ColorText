@@ -1,0 +1,43 @@
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 25px;
+  margin: 0;
+}
+
+h1 {
+  font-weight: bold;
+  color: pink;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  max-width: 600px;
+}
+
+
+header {
+  background-color: #bf3232;
+  padding: 14px;
+  padding-left: 30px;
+  color: white;
+  font-size: 15px;
+}
+  
+main {
+    padding: 20px;
+  padding-left: 30px;
+}
+
+  
+  
+  footer {
+    padding: 20px;
+}
